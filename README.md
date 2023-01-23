@@ -135,9 +135,9 @@ create a folder named static and inside static,create another folder named html 
 
 ## Output:
 
-![images](images/output.png)
+![images](imagess/output.png)
 
-![images](images/validator.png)
+![images](imagess/validator.png)
 
 ## Result:
 
