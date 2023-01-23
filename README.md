@@ -137,5 +137,9 @@ create a folder named static and inside static,create another folder named html 
 
 ![images](images/output.png)
 
+![images](images/validator.png)
+
 ## Result:
-Write your result
+
+Website to display the cover page design of a book
+is executed successfully
